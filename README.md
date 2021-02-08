@@ -12,5 +12,5 @@ Read the 'fizzbuzz.py' file carefully and understand the puzzle.
 
 Boooooom! Have a nice DEV Journey! ^_^
 
-Languages I know :- HTML ; JavaScript ; CSS ; Python ; HTA ; Bootstrap ;
+Languages I know :- HTML ; JavaScript ; CSS ; Python ; HTA ; Bootstrap ; LOGO ;
 
